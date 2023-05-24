@@ -1,0 +1,720 @@
+{
+  "sucursales" : {
+    "cabecera" : {
+      "info" : {
+        "id" : null,
+        "nombre" : "Elianne",
+        "ventas" : {
+          "cabecera" : {
+            "info" : {
+              "id" : 1,
+              "valor" : 12.36,
+              "mes" : "ENERO"
+            },
+            "sig" : {
+              "info" : {
+                "id" : 2,
+                "valor" : 12.36,
+                "mes" : "FEBRERO"
+              },
+              "sig" : {
+                "info" : {
+                  "id" : 3,
+                  "valor" : 0.0,
+                  "mes" : "MARZO"
+                },
+                "sig" : {
+                  "info" : {
+                    "id" : 4,
+                    "valor" : 0.0,
+                    "mes" : "ABRIL"
+                  },
+                  "sig" : {
+                    "info" : {
+                      "id" : 5,
+                      "valor" : 0.0,
+                      "mes" : "MAYO"
+                    },
+                    "sig" : {
+                      "info" : {
+                        "id" : 6,
+                        "valor" : 0.0,
+                        "mes" : "JUNIO"
+                      },
+                      "sig" : {
+                        "info" : {
+                          "id" : 7,
+                          "valor" : 0.0,
+                          "mes" : "JULIO"
+                        },
+                        "sig" : {
+                          "info" : {
+                            "id" : 8,
+                            "valor" : 0.0,
+                            "mes" : "AGOSTO"
+                          },
+                          "sig" : {
+                            "info" : {
+                              "id" : 9,
+                              "valor" : 0.0,
+                              "mes" : "SEPTIEMBRE"
+                            },
+                            "sig" : {
+                              "info" : {
+                                "id" : 10,
+                                "valor" : 0.0,
+                                "mes" : "OCTUBRE"
+                              },
+                              "sig" : {
+                                "info" : {
+                                  "id" : 11,
+                                  "valor" : 0.0,
+                                  "mes" : "NOVIEMBRE"
+                                },
+                                "sig" : {
+                                  "info" : {
+                                    "id" : 12,
+                                    "valor" : 0.0,
+                                    "mes" : "DICIEMBRE"
+                                  },
+                                  "sig" : {
+                                    "info" : {
+                                      "id" : 1,
+                                      "valor" : 0.0,
+                                      "mes" : "ENERO"
+                                    },
+                                    "sig" : {
+                                      "info" : {
+                                        "id" : 2,
+                                        "valor" : 0.0,
+                                        "mes" : "FEBRERO"
+                                      },
+                                      "sig" : {
+                                        "info" : {
+                                          "id" : 3,
+                                          "valor" : 0.0,
+                                          "mes" : "MARZO"
+                                        },
+                                        "sig" : {
+                                          "info" : {
+                                            "id" : 4,
+                                            "valor" : 0.0,
+                                            "mes" : "ABRIL"
+                                          },
+                                          "sig" : {
+                                            "info" : {
+                                              "id" : 5,
+                                              "valor" : 0.0,
+                                              "mes" : "MAYO"
+                                            },
+                                            "sig" : {
+                                              "info" : {
+                                                "id" : 6,
+                                                "valor" : 0.0,
+                                                "mes" : "JUNIO"
+                                              },
+                                              "sig" : {
+                                                "info" : {
+                                                  "id" : 7,
+                                                  "valor" : 0.0,
+                                                  "mes" : "JULIO"
+                                                },
+                                                "sig" : {
+                                                  "info" : {
+                                                    "id" : 8,
+                                                    "valor" : 0.0,
+                                                    "mes" : "AGOSTO"
+                                                  },
+                                                  "sig" : {
+                                                    "info" : {
+                                                      "id" : 9,
+                                                      "valor" : 0.0,
+                                                      "mes" : "SEPTIEMBRE"
+                                                    },
+                                                    "sig" : {
+                                                      "info" : {
+                                                        "id" : 10,
+                                                        "valor" : 0.0,
+                                                        "mes" : "OCTUBRE"
+                                                      },
+                                                      "sig" : {
+                                                        "info" : {
+                                                          "id" : 11,
+                                                          "valor" : 0.0,
+                                                          "mes" : "NOVIEMBRE"
+                                                        },
+                                                        "sig" : {
+                                                          "info" : {
+                                                            "id" : 12,
+                                                            "valor" : 0.0,
+                                                            "mes" : "DICIEMBRE"
+                                                          },
+                                                          "sig" : null
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "size" : 24
+        }
+      },
+      "sig" : {
+        "info" : {
+          "id" : null,
+          "nombre" : "Alyce",
+          "ventas" : {
+            "cabecera" : {
+              "info" : {
+                "id" : 1,
+                "valor" : 12.36,
+                "mes" : "ENERO"
+              },
+              "sig" : {
+                "info" : {
+                  "id" : 2,
+                  "valor" : 12.36,
+                  "mes" : "FEBRERO"
+                },
+                "sig" : {
+                  "info" : {
+                    "id" : 3,
+                    "valor" : 0.0,
+                    "mes" : "MARZO"
+                  },
+                  "sig" : {
+                    "info" : {
+                      "id" : 4,
+                      "valor" : 0.0,
+                      "mes" : "ABRIL"
+                    },
+                    "sig" : {
+                      "info" : {
+                        "id" : 5,
+                        "valor" : 0.0,
+                        "mes" : "MAYO"
+                      },
+                      "sig" : {
+                        "info" : {
+                          "id" : 6,
+                          "valor" : 0.0,
+                          "mes" : "JUNIO"
+                        },
+                        "sig" : {
+                          "info" : {
+                            "id" : 7,
+                            "valor" : 0.0,
+                            "mes" : "JULIO"
+                          },
+                          "sig" : {
+                            "info" : {
+                              "id" : 8,
+                              "valor" : 0.0,
+                              "mes" : "AGOSTO"
+                            },
+                            "sig" : {
+                              "info" : {
+                                "id" : 9,
+                                "valor" : 0.0,
+                                "mes" : "SEPTIEMBRE"
+                              },
+                              "sig" : {
+                                "info" : {
+                                  "id" : 10,
+                                  "valor" : 0.0,
+                                  "mes" : "OCTUBRE"
+                                },
+                                "sig" : {
+                                  "info" : {
+                                    "id" : 11,
+                                    "valor" : 0.0,
+                                    "mes" : "NOVIEMBRE"
+                                  },
+                                  "sig" : {
+                                    "info" : {
+                                      "id" : 12,
+                                      "valor" : 0.0,
+                                      "mes" : "DICIEMBRE"
+                                    },
+                                    "sig" : {
+                                      "info" : {
+                                        "id" : 1,
+                                        "valor" : 0.0,
+                                        "mes" : "ENERO"
+                                      },
+                                      "sig" : {
+                                        "info" : {
+                                          "id" : 2,
+                                          "valor" : 0.0,
+                                          "mes" : "FEBRERO"
+                                        },
+                                        "sig" : {
+                                          "info" : {
+                                            "id" : 3,
+                                            "valor" : 0.0,
+                                            "mes" : "MARZO"
+                                          },
+                                          "sig" : {
+                                            "info" : {
+                                              "id" : 4,
+                                              "valor" : 0.0,
+                                              "mes" : "ABRIL"
+                                            },
+                                            "sig" : {
+                                              "info" : {
+                                                "id" : 5,
+                                                "valor" : 0.0,
+                                                "mes" : "MAYO"
+                                              },
+                                              "sig" : {
+                                                "info" : {
+                                                  "id" : 6,
+                                                  "valor" : 0.0,
+                                                  "mes" : "JUNIO"
+                                                },
+                                                "sig" : {
+                                                  "info" : {
+                                                    "id" : 7,
+                                                    "valor" : 0.0,
+                                                    "mes" : "JULIO"
+                                                  },
+                                                  "sig" : {
+                                                    "info" : {
+                                                      "id" : 8,
+                                                      "valor" : 0.0,
+                                                      "mes" : "AGOSTO"
+                                                    },
+                                                    "sig" : {
+                                                      "info" : {
+                                                        "id" : 9,
+                                                        "valor" : 0.0,
+                                                        "mes" : "SEPTIEMBRE"
+                                                      },
+                                                      "sig" : {
+                                                        "info" : {
+                                                          "id" : 10,
+                                                          "valor" : 0.0,
+                                                          "mes" : "OCTUBRE"
+                                                        },
+                                                        "sig" : {
+                                                          "info" : {
+                                                            "id" : 11,
+                                                            "valor" : 0.0,
+                                                            "mes" : "NOVIEMBRE"
+                                                          },
+                                                          "sig" : {
+                                                            "info" : {
+                                                              "id" : 12,
+                                                              "valor" : 0.0,
+                                                              "mes" : "DICIEMBRE"
+                                                            },
+                                                            "sig" : null
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "size" : 24
+          }
+        },
+        "sig" : null
+      }
+    },
+    "size" : 2
+  },
+  "ventas" : {
+    "cabecera" : {
+      "info" : {
+        "id" : 1,
+        "valor" : 12.36,
+        "mes" : "ENERO"
+      },
+      "sig" : {
+        "info" : {
+          "id" : 2,
+          "valor" : 12.36,
+          "mes" : "FEBRERO"
+        },
+        "sig" : {
+          "info" : {
+            "id" : 3,
+            "valor" : 0.0,
+            "mes" : "MARZO"
+          },
+          "sig" : {
+            "info" : {
+              "id" : 4,
+              "valor" : 0.0,
+              "mes" : "ABRIL"
+            },
+            "sig" : {
+              "info" : {
+                "id" : 5,
+                "valor" : 0.0,
+                "mes" : "MAYO"
+              },
+              "sig" : {
+                "info" : {
+                  "id" : 6,
+                  "valor" : 0.0,
+                  "mes" : "JUNIO"
+                },
+                "sig" : {
+                  "info" : {
+                    "id" : 7,
+                    "valor" : 0.0,
+                    "mes" : "JULIO"
+                  },
+                  "sig" : {
+                    "info" : {
+                      "id" : 8,
+                      "valor" : 0.0,
+                      "mes" : "AGOSTO"
+                    },
+                    "sig" : {
+                      "info" : {
+                        "id" : 9,
+                        "valor" : 0.0,
+                        "mes" : "SEPTIEMBRE"
+                      },
+                      "sig" : {
+                        "info" : {
+                          "id" : 10,
+                          "valor" : 0.0,
+                          "mes" : "OCTUBRE"
+                        },
+                        "sig" : {
+                          "info" : {
+                            "id" : 11,
+                            "valor" : 0.0,
+                            "mes" : "NOVIEMBRE"
+                          },
+                          "sig" : {
+                            "info" : {
+                              "id" : 12,
+                              "valor" : 0.0,
+                              "mes" : "DICIEMBRE"
+                            },
+                            "sig" : {
+                              "info" : {
+                                "id" : 1,
+                                "valor" : 0.0,
+                                "mes" : "ENERO"
+                              },
+                              "sig" : {
+                                "info" : {
+                                  "id" : 2,
+                                  "valor" : 0.0,
+                                  "mes" : "FEBRERO"
+                                },
+                                "sig" : {
+                                  "info" : {
+                                    "id" : 3,
+                                    "valor" : 0.0,
+                                    "mes" : "MARZO"
+                                  },
+                                  "sig" : {
+                                    "info" : {
+                                      "id" : 4,
+                                      "valor" : 0.0,
+                                      "mes" : "ABRIL"
+                                    },
+                                    "sig" : {
+                                      "info" : {
+                                        "id" : 5,
+                                        "valor" : 0.0,
+                                        "mes" : "MAYO"
+                                      },
+                                      "sig" : {
+                                        "info" : {
+                                          "id" : 6,
+                                          "valor" : 0.0,
+                                          "mes" : "JUNIO"
+                                        },
+                                        "sig" : {
+                                          "info" : {
+                                            "id" : 7,
+                                            "valor" : 0.0,
+                                            "mes" : "JULIO"
+                                          },
+                                          "sig" : {
+                                            "info" : {
+                                              "id" : 8,
+                                              "valor" : 0.0,
+                                              "mes" : "AGOSTO"
+                                            },
+                                            "sig" : {
+                                              "info" : {
+                                                "id" : 9,
+                                                "valor" : 0.0,
+                                                "mes" : "SEPTIEMBRE"
+                                              },
+                                              "sig" : {
+                                                "info" : {
+                                                  "id" : 10,
+                                                  "valor" : 0.0,
+                                                  "mes" : "OCTUBRE"
+                                                },
+                                                "sig" : {
+                                                  "info" : {
+                                                    "id" : 11,
+                                                    "valor" : 0.0,
+                                                    "mes" : "NOVIEMBRE"
+                                                  },
+                                                  "sig" : {
+                                                    "info" : {
+                                                      "id" : 12,
+                                                      "valor" : 0.0,
+                                                      "mes" : "DICIEMBRE"
+                                                    },
+                                                    "sig" : null
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "size" : 24
+  },
+  "queja" : {
+    "cabecera" : null,
+    "size" : 0
+  },
+  "quejas" : null,
+  "sucursal" : {
+    "id" : null,
+    "nombre" : "Alyce",
+    "ventas" : {
+      "cabecera" : {
+        "info" : {
+          "id" : 1,
+          "valor" : 12.36,
+          "mes" : "ENERO"
+        },
+        "sig" : {
+          "info" : {
+            "id" : 2,
+            "valor" : 12.36,
+            "mes" : "FEBRERO"
+          },
+          "sig" : {
+            "info" : {
+              "id" : 3,
+              "valor" : 0.0,
+              "mes" : "MARZO"
+            },
+            "sig" : {
+              "info" : {
+                "id" : 4,
+                "valor" : 0.0,
+                "mes" : "ABRIL"
+              },
+              "sig" : {
+                "info" : {
+                  "id" : 5,
+                  "valor" : 0.0,
+                  "mes" : "MAYO"
+                },
+                "sig" : {
+                  "info" : {
+                    "id" : 6,
+                    "valor" : 0.0,
+                    "mes" : "JUNIO"
+                  },
+                  "sig" : {
+                    "info" : {
+                      "id" : 7,
+                      "valor" : 0.0,
+                      "mes" : "JULIO"
+                    },
+                    "sig" : {
+                      "info" : {
+                        "id" : 8,
+                        "valor" : 0.0,
+                        "mes" : "AGOSTO"
+                      },
+                      "sig" : {
+                        "info" : {
+                          "id" : 9,
+                          "valor" : 0.0,
+                          "mes" : "SEPTIEMBRE"
+                        },
+                        "sig" : {
+                          "info" : {
+                            "id" : 10,
+                            "valor" : 0.0,
+                            "mes" : "OCTUBRE"
+                          },
+                          "sig" : {
+                            "info" : {
+                              "id" : 11,
+                              "valor" : 0.0,
+                              "mes" : "NOVIEMBRE"
+                            },
+                            "sig" : {
+                              "info" : {
+                                "id" : 12,
+                                "valor" : 0.0,
+                                "mes" : "DICIEMBRE"
+                              },
+                              "sig" : {
+                                "info" : {
+                                  "id" : 1,
+                                  "valor" : 0.0,
+                                  "mes" : "ENERO"
+                                },
+                                "sig" : {
+                                  "info" : {
+                                    "id" : 2,
+                                    "valor" : 0.0,
+                                    "mes" : "FEBRERO"
+                                  },
+                                  "sig" : {
+                                    "info" : {
+                                      "id" : 3,
+                                      "valor" : 0.0,
+                                      "mes" : "MARZO"
+                                    },
+                                    "sig" : {
+                                      "info" : {
+                                        "id" : 4,
+                                        "valor" : 0.0,
+                                        "mes" : "ABRIL"
+                                      },
+                                      "sig" : {
+                                        "info" : {
+                                          "id" : 5,
+                                          "valor" : 0.0,
+                                          "mes" : "MAYO"
+                                        },
+                                        "sig" : {
+                                          "info" : {
+                                            "id" : 6,
+                                            "valor" : 0.0,
+                                            "mes" : "JUNIO"
+                                          },
+                                          "sig" : {
+                                            "info" : {
+                                              "id" : 7,
+                                              "valor" : 0.0,
+                                              "mes" : "JULIO"
+                                            },
+                                            "sig" : {
+                                              "info" : {
+                                                "id" : 8,
+                                                "valor" : 0.0,
+                                                "mes" : "AGOSTO"
+                                              },
+                                              "sig" : {
+                                                "info" : {
+                                                  "id" : 9,
+                                                  "valor" : 0.0,
+                                                  "mes" : "SEPTIEMBRE"
+                                                },
+                                                "sig" : {
+                                                  "info" : {
+                                                    "id" : 10,
+                                                    "valor" : 0.0,
+                                                    "mes" : "OCTUBRE"
+                                                  },
+                                                  "sig" : {
+                                                    "info" : {
+                                                      "id" : 11,
+                                                      "valor" : 0.0,
+                                                      "mes" : "NOVIEMBRE"
+                                                    },
+                                                    "sig" : {
+                                                      "info" : {
+                                                        "id" : 12,
+                                                        "valor" : 0.0,
+                                                        "mes" : "DICIEMBRE"
+                                                      },
+                                                      "sig" : null
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "size" : 24
+    }
+  },
+  "venta" : {
+    "id" : 1,
+    "valor" : 12.36,
+    "mes" : "ENERO"
+  }
+}
